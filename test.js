@@ -28,7 +28,7 @@ function reverseString(str) {
 console.log("Testing reverseString Function: ");
 console.log("Reverse of 'hello': ", reverseString('hello'));
 console.log("reverse of 'Moses': ", reverseString('Moses'));
-console.log("Reverse of 'fuck me': ", reverseString('fuck me'));
+console.log("Reverse of 'fuck me': ", reverseString('code javascript'));
 console.log("Reverse of 'beautiful': ", reverseString('beautiful'));
 console.log("reverse of the array '123456': ", reverseString('123456'));
 console.log();
